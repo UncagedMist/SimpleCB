@@ -1,8 +1,8 @@
 url:http://djustice-android.tumblr.com
-name:Hari
-email:hariutd@gmail.com
-gender:male
-botmaster:Hari Vignesh Jayapalan
-organization:Medkumo
+name:Gideon
+email:unknown@gmail.com
+gender:AI
+botmaster:KK
+organization:TBC
 version:0.0.1
 
